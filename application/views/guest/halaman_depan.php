@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="col-md-7"><img class="img-fluid max-width: 50%" src="<?= base_url('assets/picBuss.svg') ?>" alt=""></div>
-                <h1 class="display-4">Semalat Datang di Ngebuss</h1>                    
+                <h1 class="display-4">Selamat Datang di Ngebuss</h1>                    
                 <p class="lead">Anda dapat melakukan pemesanan tiket Bus Online dengan mudah</p>
             </div>
             <div class="col-md-4">
